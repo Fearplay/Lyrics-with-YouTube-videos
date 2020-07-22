@@ -1,4 +1,4 @@
-# LyricsAndStartYoutubePython
+# LyricsAndYoutubePython
 * A simple GUI which will find lyrics and play youtube video of song you want to see.
 1. **Click and run Tkinter_Lyrics.py**
 2. **Enter name of artist**
