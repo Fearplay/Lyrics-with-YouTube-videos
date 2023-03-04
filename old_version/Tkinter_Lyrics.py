@@ -3,6 +3,8 @@ from PyLyrics import *
 import pywhatkit
 import time
 
+"""http://lyrics.wikia.com/ does not exist. So PyLyrics not works anymore."""
+
 win = Tk()
 
 win.title("Tkinter_Lyric")
