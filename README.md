@@ -1,6 +1,6 @@
 # Lyrics-with-YouTube-videos
 
-A simple GUI that scrape lyrics from [https://www.songlyrics.com](https://www.songlyrics.com) and play YouTube video.
+A simple GUI that scrapes lyrics from [https://www.songlyrics.com](https://www.songlyrics.com) and play YouTube video.
 For educational purposes only
 
 ## Table of Contents
