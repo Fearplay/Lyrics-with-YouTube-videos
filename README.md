@@ -26,7 +26,7 @@ For educational purposes only
 
 ## How to use
 
-1. Run **main.py**
+1. Run **main.py** in **new_version**
 2. **Enter** the name of the **artist**
 3. **Enter** the name of the **song**
 4. Check if the song **has** the **featured artist**
